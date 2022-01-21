@@ -37,7 +37,7 @@ install :
 	install dsv-to-json /usr/local/bin
 	install json-objs-to-table /usr/local/bin
 	install json-diff.go /usr/local/bin
-	install json-empty-array /usr/local/bin
+	install json-empty-array.go /usr/local/bin
 	install json-format /usr/local/bin
 	install json-make-schema /usr/local/bin
 	install json-run /usr/local/bin
